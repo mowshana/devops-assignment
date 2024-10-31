@@ -1,4 +1,4 @@
-# devops-assignment
+# Devops LAB and Assignments
 All LAB and Assignments are displayed here....
 
 ## LAB Class:
